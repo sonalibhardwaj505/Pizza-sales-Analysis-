@@ -104,6 +104,7 @@ Category Promotions:  Bundle popular and weaker pizzas (e.g., Classic + Veggie d
 Targeted Marketing:  Offer discounts during off-peak hours.
 Track Growth Regularly:  Continue monitoring revenue trends monthly to guide strategy.
 
- Author
+  Author
+
 Sonali Bhardwaj
 Data Analyst | SQL Enthusiast | Business Insights
